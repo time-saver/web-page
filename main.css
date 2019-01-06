@@ -1,0 +1,15 @@
+p {
+	color: blue;
+	text-align: center;
+	font-size: 24px; 
+}
+/*img {
+	size: 100%;
+	opacity: 0.4;
+	filter: alpha(opacity=10);
+}*/
+.test {
+	position: absolute;
+	top: 10px;
+	right: 100px;
+}
